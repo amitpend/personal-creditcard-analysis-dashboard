@@ -1,1 +1,1 @@
-# Personal Finance: Credit Card Analysis and Dashboard using GCP
+# Personal Finance: Credit Card Analysis Dashboard using GCP
