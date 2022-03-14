@@ -1,6 +1,6 @@
 # Personal Finance: Credit Card Analysis Dashboard using GCP
 
-This code gets triggered when a Credit Card transaction file gets loaded to the Cloud Storage bucket.
+This code is the Cloud Function which gets triggered when a Credit Card transaction file gets loaded to the Cloud Storage bucket.
 
 The code then parses the data and loads the transactions into the BigQuery table
 
