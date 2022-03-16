@@ -22,7 +22,7 @@ def load_cc_to_bigquery(file, context):
     
     else:
         data['Bank'] = 'Unknown'
-        exit
+        return
     
     data.Bank = data.Bank.astype('str')
     data.Card_No = data.Card_No.astype('str')
